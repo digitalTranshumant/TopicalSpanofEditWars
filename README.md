@@ -9,12 +9,14 @@ The main contributions of this work are:
 * We have found that just 7% of edit wars are cross-topic.
 * However, users involved in this cross-topic edit wars are generally very active users, making difficult to assume that those wars are due person-centered conflicts.
 
+![Class of edit wars vs number of revisions](img/EditWarsVsRevisions.png)
+
 In this repository you will find the following notebooks:
 
 * [EditWars.ipynb](./EditWars.ipynb): This notebook contains the main analysis of this study. Here you will find the implementation of the topical distance model, as well as the analysis about cross-topical edit wars. 
-* CreateWikiprojectGraph.ipynb: This a short notebook explaining how to create the [Wikiproject](https://en.wikipedia.org/wiki/Wikipedia:WikiProject) Graph. 
-* Reverting behavior.ipynb: This notebook show the relationships among users' activity (number of contributions), reverts done, reverts received, and registration time (account age/tenure)
-* Reverts from SHA1.ipynb: This notebook explains how we compute the reverts dataset. 
+* [CreateWikiprojectGraph.ipynb](./CreateWikiprojectGraph.ipynb): This a short notebook explaining how to create the [Wikiproject](https://en.wikipedia.org/wiki/Wikipedia:WikiProject) Graph. 
+* [Reverting behavior.ipynb](./Reverting behavior.ipynb): This notebook show the relationships among users' activity (number of contributions), reverts done, reverts received, and registration time (account age/tenure)
+* [Reverts from SHA1.ipynb](./Reverts from SHA1.ipynb): This notebook explains how we compute the reverts dataset. 
 
 
 
