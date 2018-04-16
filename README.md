@@ -1,6 +1,6 @@
 # Topical Span of Edit Wars in English Wikipedia
 
-This is the repository of [Topical_coverage_of_Edit_Wars](https://meta.wikimedia.org/wiki/Research:Topical_coverage_of_Edit_Wars) study. This is [Community health initiative](https://meta.wikimedia.org/wiki/Community_health_initiative). Here, we take a language agnostic approach, which focuses on Wikipedia edit wars attempting  to differentiate between topic-centered and person-centered conflicts. 
+This is the repository of [Topical_coverage_of_Edit_Wars](https://meta.wikimedia.org/wiki/Research:Topical_coverage_of_Edit_Wars) study, within the context of the [Community health initiative](https://meta.wikimedia.org/wiki/Community_health_initiative) at Wikimedia Foundation. Here, we take a language agnostic approach to understand toxic behavior, focusing [Wikipedia edit wars](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring), attempting  to differentiate between topic-centered and person-centered conflicts. 
 
 The main contributions of this work are:
 
